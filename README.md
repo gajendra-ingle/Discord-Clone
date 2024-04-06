@@ -4,7 +4,6 @@ Welcome to the Discord UI Clone project! This web-based application replicates t
 
 ## Preview
 
-Include a screenshot or GIF showcasing the Discord UI clone here.
 
 ## Features
 
