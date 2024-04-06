@@ -5,6 +5,10 @@ Welcome to the Discord UI Clone project! This web-based application replicates t
 ## Preview
 
 
+https://github.com/gajendra-ingle/Discord-Clone/assets/75525478/c8859c9f-cf34-4962-b784-7d5533d14a29
+
+
+
 ## Features
 
 - **Real-time Chat Interface:** Mimics the look and feel of Discord's chat interface.
