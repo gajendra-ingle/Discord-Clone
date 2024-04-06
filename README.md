@@ -3,6 +3,7 @@
 Welcome to the Discord UI Clone project! This web-based application replicates the user interface of the popular chat and communication platform, Discord. It is built using HTML and styled with Tailwind CSS.
 
 ## Preview
+https://github.com/gajendra-ingle/Discord-Clone/assets/75525478/c8859c9f-cf34-4962-b784-7d5533d14a29
 
 ## Features
 
